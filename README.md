@@ -1,3 +1,4 @@
+![Dashboard](dashboard.png)
 ## HR Recruitment Analytics Dashboard
 
 ## Objective
